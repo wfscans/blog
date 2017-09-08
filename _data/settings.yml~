@@ -1,4 +1,4 @@
-title:  "Mizu"
+title:  "Water Blogs"
 tagline: "The blog of a random internet user"
 description: "The blog of a random internet user"
 author:
@@ -12,7 +12,7 @@ disqus:
 
 menu:
 - {name: 'Rambles', file: 'rambles.html'}
-- {name: 'Book Reviews', file: 'reviews.html'}
+- {name: 'Book Reviews', file: 'books.html'}
 - {name: 'Game Reviews', file: 'games.html'}
 - {name: 'Showcase', file: 'showcase.html'}
 
