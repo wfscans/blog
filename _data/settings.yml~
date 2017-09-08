@@ -12,7 +12,7 @@ disqus:
 
 menu:
 - {name: 'Rambles', file: 'rambles.html'}
-- {name: 'Book Reviews', file: 'books.html'}
+- {name: 'Book Reviews', file: 'reviews.html'}
 - {name: 'Game Reviews', file: 'games.html'}
 - {name: 'Showcase', file: 'showcase.html'}
 
