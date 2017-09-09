@@ -66,7 +66,8 @@ Things I couldn’t fit into my review of sorts(spoilers tagged, hover to show):
 * One thing to note is unlike in the book where the ending focuses more on Hanekawa the movie version focuses more on Shinobu.
 
 
-* In Chapter 18 Oshino mentions that to a vampire sucking blood to create a minion could be considered an act on tier with sex… Thoughts Senjo ![Tsubasa Emote](/assets/img/kizu01/Tsubasa.jpg)
+* In Chapter 18 Oshino mentions that to a vampire sucking blood to create a minion could be considered an act on tier with sex… Thoughts Senjo?
+![Tsubasa Emote](/assets/img/kizu01/Tsubasa.jpg)
 
 
 
