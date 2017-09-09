@@ -7,7 +7,7 @@ tags: [Book Reviews]
 image:
   feature: kizu01/Cover.jpg
 ---
-TLDR: Yeah, it actually turned out okay and if you don’t want to read the novel(which you should) this is a good alternative as it’s read to you.
+**TLDR: Yeah, it actually turned out okay and if you don’t want to read the novel this is a good alternative as it’s read to you.**
 
 
 So recently I listened to the Kizumonogatari audiobook done by Vertical. I have to say I’m surprised it came out better than I ever expected it to be. Maybe that in itself was what made the experience so positive? By not expecting much I was able to come away with more… well either way I’ll let you be the judge, let’s get on with the review of sorts. Though before we get started for anyone who hasn’t read Kizu(or at least watched the movies) this does include spoilers for Kizu. If you plan to read or listen then I’d suggest refering to the TDLR, read through the book, and come back and see how we compare on the voices and such.
@@ -66,7 +66,8 @@ Things I couldn’t fit into my review of sorts(spoilers tagged, hover to show):
 * One thing to note is unlike in the book where the ending focuses more on Hanekawa the movie version focuses more on Shinobu.
 
 
-* In Chapter 18 Oshino mentions that to a vampire sucking blood to create a minion could be considered an act on tier with sex… Thoughts Senjo ![Tsubasa](tsubasa.jpg)
+* In Chapter 18 Oshino mentions that to a vampire sucking blood to create a minion could be considered an act on tier with sex… Thoughts Senjo ![Tsubasa Emote](/assets/img/kizu01/Tsubasa.jpg)
+
 
 
 * “Because the evaluator of course didn’t work”... Your move movie :p
