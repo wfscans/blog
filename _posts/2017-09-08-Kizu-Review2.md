@@ -57,7 +57,7 @@ Things I couldn’t fit into my review of sorts(spoilers tagged, hover to show):
 * I haven’t finished Owari so I might get an answer there or one of the later novels… Is Oshino an aberration of sorts? Let me explain my semi spoiler reasoning. <span class=”spoiler”>I mean I guess it doesn’t make much sense with what we know of his college life… but he could be like Tsukihi. Anyway it would certainly match up with his “Niece”. I mean they both doing their own type of balancing… it’s like they’re Yin and Yang.</span>
 
 
-* Owari on <span class=”spoiler”>So listening to Kiss Shot’s explanation of the aberration killer sword being able to kill an aberration without harming the former(say a human). I can now confirm Shinobu being gone in parts of Owari and in Hana(and anything between this) due to the events of Koyomimonogatari. Damn I really feel bad for the people who did offical only watches… must be quite confused with Owari Part 2…</span>
+* Owari onward ~~So listening to Kiss Shot’s explanation of the aberration killer sword being able to kill an aberration without harming the former(say a human). I can now confirm Shinobu being gone in parts of Owari and in Hana(and anything between this) due to the events of Koyomimonogatari. Damn I really feel bad for the people who did offical only watches… must be quite confused with Owari Part 2…~~
 
 
 * Now for a quick joke - Monogatari, it’s all Hanekawa’s fault. I mean she real booted Araragi in to meeting Kiss Shot. Hell if things went differently they may of ended up together or just gone their separate ways. What if Hanekawa was the vampire? :p
