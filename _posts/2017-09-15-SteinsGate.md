@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Steins;Gate"
+title: "Steins;Gate Review"
 author: "waterflame"
 categories: greview
 tags: [Game Review]
