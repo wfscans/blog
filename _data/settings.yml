@@ -16,7 +16,7 @@ menu:
 - {name: 'Showcase', file: 'showcase'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/waterflame321'}
+- {icon: 'twitter', link: 'social'}
 - {icon: 'envelope', link: 'social'}
 - {icon: 'rss', link: 'feed'}
 
