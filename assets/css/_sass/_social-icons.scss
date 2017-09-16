@@ -9,7 +9,7 @@ $google-color: #e64a41;
 $pinterest-color: #bd081c;
 $medium-color: #00AB6C;
 $codepen-color: black;
-$rss-color: #f39c12
+$rss-color: #f39c12;
 
 @mixin social-media-icon($color, $transition){
   -webkit-transition: $transition;
