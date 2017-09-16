@@ -48,3 +48,5 @@ So you want to play... But how? Well there are quite a few options for you, so I
    * No need for a patch
    * Package version - http://www.jlist.com/p/sg001 
 * [Vita(PQube)](https://store.playstation.com/#!/en-us/games/steinsgate/cid=UP4293-PCSE00644_00-STEINSGATE00000A) / [PS3(PQube)](https://store.playstation.com/#!/en-us/games/steinsgate/cid=UP4293-NPUB31688_00-STEINSGATEEN0001)
+
+
