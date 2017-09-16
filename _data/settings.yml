@@ -10,14 +10,14 @@ disqus:
   disqus_shortname: 'wblog-1'
 
 menu:
-- {name: 'Rambles', file: '/rambles'}
-- {name: 'Book Reviews', file: '/books'}
-- {name: 'Game Reviews', file: '/games'}
-- {name: 'Showcase', file: '/showcase'}
+- {name: 'Rambles', file: 'rambles'}
+- {name: 'Book Reviews', file: 'books'}
+- {name: 'Game Reviews', file: 'games'}
+- {name: 'Showcase', file: 'showcase'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/waterflame321'}
-- {icon: 'envelope', link: '/social'}
-- {icon: 'rss', link: '/feed'}
+- {icon: 'envelope', link: 'social'}
+- {icon: 'rss', link: 'feed'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
