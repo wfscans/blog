@@ -9,6 +9,7 @@ $google-color: #e64a41;
 $pinterest-color: #bd081c;
 $medium-color: #00AB6C;
 $codepen-color: black;
+$rss-color: #f39c12
 
 @mixin social-media-icon($color, $transition){
   -webkit-transition: $transition;
@@ -70,3 +71,14 @@ $codepen-color: black;
   padding: 5px;
   @include social-media-icon($codepen-color, $icon-transition-time);
 }
+
+.fa-envelope {
+  padding: 5px;
+  @include social-media-icon($envelope-color, $icon-transition-time);
+}
+
+.fa-rss {
+  padding: 5px;
+  @include social-media-icon($rss-color, $icon-transition-time);
+}
+
