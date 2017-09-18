@@ -11,13 +11,12 @@ disqus:
 
 menu:
 - {name: 'Rambles', file: 'rambles'}
-- {name: 'Book Reviews', file: 'books'}
-- {name: 'Game Reviews', file: 'games'}
+- {name: 'Reviews', file: 'reviews'}
 - {name: 'Showcase', file: 'showcase'}
 
 social:
-- {icon: 'twitter', link: 'social'}
-- {icon: 'envelope', link: 'social'}
+- {icon: 'twitter', file: 'social'}
+- {icon: 'envelope', file: 'social'}
 - {icon: 'rss', link: '/feed'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
