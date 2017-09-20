@@ -2,7 +2,7 @@
 layout: post
 title: "Steins;Gate Review"
 author: "waterflame"
-categories: greview
+categories: review
 tags: [Game Review]
 image:
   feature: 03sg/cover.jpg
