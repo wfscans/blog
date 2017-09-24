@@ -15,8 +15,8 @@ menu:
 - {name: 'Showcase', file: 'showcase'}
 
 social:
-- {icon: 'twitter', file: 'social'}
-- {icon: 'envelope', file: 'social'}
+- {icon: 'twitter', link: '/pages/social'}
+- {icon: 'envelope', link: '/pages/social'}
 - {icon: 'rss', link: '/feed'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
